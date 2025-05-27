@@ -7,9 +7,10 @@
 # python3 generate-title.py "How to use Python for data analysis"
 # Example:
 # print(generate_title("How to use Python for data analysis"))
-# Output: "how-to-use-python-for-data-analysis"import re
+# Output: "how-to-use-python-for-data-analysis"
 
 import re
+import sys
 
 def generate_title(title: str) -> str:
     # Convert to lowercase
@@ -21,7 +22,6 @@ def generate_title(title: str) -> str:
     return title
 
 if __name__ == "__main__":
-    import sys
     if len(sys.argv) != 2:
         print("Usage: python generate-title.py <title>")
         sys.exit(1)

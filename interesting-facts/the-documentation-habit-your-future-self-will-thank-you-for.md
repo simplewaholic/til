@@ -184,3 +184,5 @@ AI đang thay đổi cách chúng ta làm documentation: nó tự động cập 
 
 Hãy sử dụng các công cụ đơn giản để làm cho việc viết tài liệu trở nên dễ dàng hơn. Thể hiện giá trị của nó bằng cách nhấn mạnh cách nó tiết kiệm thời gian và tránh lỗi. Biến việc viết tài liệu thành một thói quen, chứ không phải là một nhiệm vụ bắt buộc.
 
+Bài viết được dịch tại:
+- https://medium.com/engineering-managers-journal/the-documentation-habit-your-future-self-will-thank-you-for-7bf1234497cb

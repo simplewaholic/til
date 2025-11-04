@@ -1,6 +1,8 @@
 # The Documentation Habit Your Future Self Will Thank You For
 
 
+Tags: #productivity, #habits, #software-development
+
 Bộ nhớ con người giống như một cơ chế cache – nó có thể điền vào các phần thiếu, nhưng không phải lúc nào cũng chính xác.
 
 Bạn từng chắc chắn về một thông tin nào đó, nhưng sau đó phát hiện ra mình đã sai chưa? Ví dụ, bạn có thể “nhớ” rằng nhân vật Monopoly Man đeo kính một mắt (monocle). Hoặc bạn nghĩ tên của loạt truyện thiếu nhi là *Berenstein Bears* thay vì *Berenstain Bears*. Nhưng cả hai ký ức này đều sai.

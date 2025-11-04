@@ -4,7 +4,7 @@ Author: Lee Boonstra
 
 "You don’t need to be a data scientist or a machine learning  engineer – everyone can write  a prompt."
 
-
+Tags: #ai, #prompt
 ## Introduce
 
 Hãy nhớ cách một mô hình ngôn ngữ lớn (LLM) hoạt động; nó là một **công cụ dự đoán**. Mô hình nhận **văn bản tuần tự** làm đầu vào, rồi **dự đoán token (đơn vị ngôn ngữ) tiếp theo** sẽ là gì, dựa trên dữ liệu mà nó đã được huấn luyện.
@@ -61,6 +61,8 @@ Cơ chế điều khiển nhiệt độ của Gemini có thể được hiểu t
 
 Sự không chắc chắn tăng lên này phù hợp cho các tình huống mà độ chính xác cứng nhắc không quá cần thiết — chẳng hạn như khi thử nghiệm với các đầu ra mang tính sáng tạo.
 
+
+### Top-K and top-P
 
 
 

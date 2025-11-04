@@ -1,5 +1,8 @@
 # 8 Habits That Can Make You an Unstoppable Software Engineer
 
+Tags: 
+
+
 ## Kỹ sư phần mềm giỏi không phải do bẩm sinh – mà là kết quả của thói quen được rèn luyện.
 
 Ngày nay, thế giới không thiếu lập trình viên. Nhưng những người thực sự nổi bật – những người không ngừng phát triển, giải quyết vấn đề thực tế và dẫn dắt đội nhóm – không nhất thiết phải là người thông minh nhất hay giàu kinh nghiệm nhất. Họ là những người đã xây dựng được những thói quen mạnh mẽ.
@@ -7,8 +10,6 @@ Ngày nay, thế giới không thiếu lập trình viên. Nhưng những ngư�
 Những thói quen này vượt xa việc viết mã sạch (clean code) hay làm chủ các framework. Đó là những hành vi hàng ngày, những quyết định nhỏ và tư duy đúng đắn – những yếu tố phân biệt lập trình viên giỏi với lập trình viên xuất sắc.
 
 Nếu bạn muốn “level up và trở nên "unstoppable", hãy bắt đầu với 8 thói quen sau:
-
-
 
 ### 1. Tư duy theo hệ thống, không chỉ là viết code
 
@@ -21,8 +22,6 @@ Khi phát triển một tính năng, hãy luôn tự hỏi:
 * Nếu lượng người dùng tăng gấp 10 lần thì chuyện gì xảy ra?
 
 Tư duy như một kiến trúc sư hệ thống (system architect), không chỉ là coder, sẽ giúp sản phẩm của bạn bền vững hơn.
-
-
 
 ### 2. Viết code “nhàm chán” mà đẹp
 
@@ -40,19 +39,15 @@ Hãy hướng đến:
 * Hàm thực hiện một nhiệm vụ duy nhất và làm tốt điều đó
 
 
-
 ### 3. Dành thời gian cho "deep work" mỗi ngày
 
 Lập trình viên giỏi bảo vệ sự tập trung của mình như một tài sản quý giá. Họ dành thời gian để rơi vào trạng thái flow – nơi thời gian trôi qua nhanh chóng và các vấn đề khó được giải quyết.
 
 Hãy thử:
-
 * Block 2–3 tiếng mỗi ngày để làm việc sâu
 * Tắt thông báo, đóng Slack
 * Để điện thoại ở phòng khác
-
 Năng suất của bạn sẽ tăng vọt.
-
 
 
 ### 4. Thành thạo kỹ năng debug
@@ -69,7 +64,6 @@ Kỹ năng debug tốt nghĩa là:
 Khả năng debug quyết định tốc độ và sự tự tin khi bạn làm việc với code.
 
 
-
 ### 5. Luôn tò mò và học hỏi
 
 Công nghệ thay đổi chóng mặt. Thứ “hot” hôm nay có thể lỗi thời năm sau. Cách duy nhất để không bị bỏ lại là liên tục học hỏi:
@@ -82,8 +76,6 @@ Công nghệ thay đổi chóng mặt. Thứ “hot” hôm nay có thể lỗi 
 
 Nhưng đừng chỉ đuổi theo công cụ mới – hãy hiểu sâu cách mọi thứ hoạt động từ bên trong (under the hood). Kiến thức tích lũy sẽ mang lại giá trị lâu dài trong sự nghiệp của bạn.
 
-
-
 ### 6. Giao tiếp chuyên nghiệp
 
 Dù bạn giỏi cỡ nào, nếu không truyền đạt được ý tưởng thì bạn sẽ bị giới hạn. Giao tiếp tốt nghĩa là:
@@ -94,8 +86,6 @@ Dù bạn giỏi cỡ nào, nếu không truyền đạt được ý tưởng th
 * Đặt câu hỏi đúng trong code review
 
 Giao tiếp là cầu nối từ developer đơn lẻ trở thành người dẫn dắt nhóm.
-
-
 
 ### 7. Review code với tâm thế tích cực và mục tiêu rõ ràng
 
@@ -109,7 +99,6 @@ Khi review code, hãy:
 * Đề xuất giải pháp thay vì chỉ trích
 
 Điều này giúp xây dựng niềm tin, nâng cao chất lượng và gắn kết đội nhóm.
-
 
 
 ### 8. Làm chủ vấn đề, không chỉ làm theo task
@@ -126,14 +115,13 @@ Họ:
 Họ không đợi hướng dẫn – họ chủ động hành động.
 
 
-
 ## Lời kết
 
 Trở thành một kỹ sư phần mềm “unstoppable” không phải là biết hết mọi ngôn ngữ hay framework. Mà là ở tư duy, cách làm việc và khả năng phát triển bản thân.
 
 Xây dựng những thói quen này. Rèn luyện chúng mỗi ngày. Bạn sẽ không chỉ trở thành một lập trình viên giỏi – mà còn là nhân tố mà bất kỳ đội ngũ nào cũng muốn có.
 
-Luôn khát khao. Luôn khiêm tốn. Và tiếp tục ship sản phẩm.
+Luôn khát khao. Luôn khiêm tốn. Và tiếp tục **ship** sản phẩm.
 
 Bài viết được dịch tại:
 - https://medium.com/the-pythonworld/8-habits-that-can-make-you-an-unstoppable-software-engineer-be97c5b37236 

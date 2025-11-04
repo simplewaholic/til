@@ -1,7 +1,7 @@
 # The Documentation Habit Your Future Self Will Thank You For
 
 
-Tags: #productivity, #habits, #software-development
+Tags: #article , #productivity, #habits
 
 Bộ nhớ con người giống như một cơ chế cache – nó có thể điền vào các phần thiếu, nhưng không phải lúc nào cũng chính xác.
 

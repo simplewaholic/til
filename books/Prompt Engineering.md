@@ -4,7 +4,8 @@ Author: Lee Boonstra
 
 "You don’t need to be a data scientist or a machine learning  engineer – everyone can write  a prompt."
 
-Tags: #book , #ai, #prompt
+Node: [[books]]
+Tags: #book , #ai
 ## Introduce
 
 Hãy nhớ cách một mô hình ngôn ngữ lớn (LLM) hoạt động; nó là một **công cụ dự đoán**. Mô hình nhận **văn bản tuần tự** làm đầu vào, rồi **dự đoán token (đơn vị ngôn ngữ) tiếp theo** sẽ là gì, dựa trên dữ liệu mà nó đã được huấn luyện.
@@ -64,5 +65,14 @@ Sự không chắc chắn tăng lên này phù hợp cho các tình huống mà 
 
 ### Top-K and top-P
 
+Top-K và top-P (còn được gọi là **lấy mẫu hạt nhân**) là hai thiết lập lấy mẫu được sử dụng trong các mô hình ngôn ngữ lớn (LLM) nhằm giới hạn việc chọn **token** tiếp theo trong số những token có **xác suất dự đoán cao nhất**. Giống như **nhiệt độ (temperature)**, các thiết lập lấy mẫu này điều chỉnh **mức độ ngẫu nhiên và đa dạng** của văn bản được tạo ra.
+
+- Phép lấy mẫu Top-K chọn ra **K token có xác suất cao nhất** từ phân phối dự đoán của mô hình. Giá trị **K càng cao**, đầu ra của mô hình càng **sáng tạo và đa dạng**;  giá trị **K càng thấp**, đầu ra càng **ổn định và mang tính chính xác thực tế** hơn. Khi **top-K = 1**, quá trình này tương đương với **giải mã tham lam (greedy decoding)**.
+- Lấy mẫu Top-P (Top-P sampling) chọn ra các token hàng đầu sao cho tổng xác suất tích lũy của chúng không vượt quá một giá trị nhất định (P). Giá trị của P dao động từ 0 (giải mã tham lam — greedy decoding) đến 1 (bao gồm tất cả các token trong vốn từ vựng của mô hình ngôn ngữ lớn).
+
+Cách tốt nhất để lựa chọn giữa **top-K** và **top-P** là **thử nghiệm với cả hai phương pháp** (hoặc kết hợp cả hai) và **xem phương pháp nào tạo ra kết quả mà bạn mong muốn**.
+
+
+### Putting it all together 
 
 
